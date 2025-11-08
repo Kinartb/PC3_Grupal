@@ -77,7 +77,6 @@ Archivo Gherkin con los escenarios del flujo de devolución.
 
 features/steps/devolver_herramienta_steps.py
 
-Implementación de cada paso del feature, simulando base de datos, estados y notificaciones.
 ---
 
 ### **Instrucciones de Ejecución**
