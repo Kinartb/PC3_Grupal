@@ -86,4 +86,6 @@ features/steps/devolver_herramienta_steps.py
 pip install behave
 ```
 #### **Paso 2: El proyecto debe ejecutarse desde la raíz del repositorio**
+```bash
 behave
+```
