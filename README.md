@@ -28,3 +28,18 @@ red_social_herramientas_bdd/
 │  ----           └── devolver_herramienta_steps.py     # Implementación en Python
 
 └── README.md
+
+
+---
+
+### **Feature: Devolver Herramienta**
+
+```gherkin
+Feature: Devolver herramienta
+  As Ana Torres (arrendatario)
+  I want to devolver la herramienta alquilada
+  So that recuperar mi depósito y cerrar el alquiler
+
+  Background:
+    Given Ana tiene un alquiler activo con plazo hasta el 8 de noviembre
+    And ha pagado un depósito de S/150
