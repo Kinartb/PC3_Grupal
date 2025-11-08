@@ -68,3 +68,12 @@ Feature: Devolver herramienta
     Then se deduce S/80 del depósito
     And Ana recibe S/70 de reembolso
 ```
+### **Archivos Clas**
+
+features/devolver_herramienta.feature
+
+Archivo Gherkin con los escenarios del flujo de devolución.
+
+features/steps/devolver_herramienta_steps.py
+
+Implementación de cada paso del feature, simulando base de datos, estados y notificaciones.
