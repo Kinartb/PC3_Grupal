@@ -16,6 +16,7 @@ Se enfoca en **Ana Torres (arrendataria)** y sus interacciones con el sistema al
 ---
 
 ### **Estructura del Proyecto**
+```
 
 red_social_herramientas_bdd/
 
@@ -28,7 +29,7 @@ red_social_herramientas_bdd/
 │  ----           └── devolver_herramienta_steps.py     # Implementación en Python
 
 └── README.md
-
+```
 
 ---
 
