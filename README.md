@@ -25,6 +25,6 @@ red_social_herramientas_bdd/
 
 │   └── steps/
 
-│       └── devolver_herramienta_steps.py     # Implementación en Python
+│             └── devolver_herramienta_steps.py     # Implementación en Python
 
 └── README.md
