@@ -68,7 +68,8 @@ Feature: Devolver herramienta
     Then se deduce S/80 del depósito
     And Ana recibe S/70 de reembolso
 ```
-### **Archivos Clas**
+---
+### **Archivos Clase**
 
 features/devolver_herramienta.feature
 
@@ -77,3 +78,13 @@ Archivo Gherkin con los escenarios del flujo de devolución.
 features/steps/devolver_herramienta_steps.py
 
 Implementación de cada paso del feature, simulando base de datos, estados y notificaciones.
+---
+
+### **Instrucciones de Ejecución**
+
+#### **Paso 1: Instalar dependencias**
+```bash
+pip install behave
+```
+#### **Paso 2: El proyecto debe ejecutarse desde la raíz del repositorio**
+behave
