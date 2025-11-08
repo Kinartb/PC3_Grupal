@@ -66,13 +66,13 @@ Feature: Devolver herramienta
     And Ana recibe S/70 de reembolso
 ```
 ---
-### **Archivos Clase**
+### **Archivos PC3**
 
-features/devolver_herramienta.feature
+features/devolver_herramienta.feature : Archivo Gherkin con los escenarios del flujo de devolución.
 
-Archivo Gherkin con los escenarios del flujo de devolución.
 
-features/steps/devolver_herramienta_steps.py
+
+features/steps/devolver_herramienta_steps.py : Implementación de cada paso del feature, simulando base de datos, estados y notificaciones.
 
 ---
 
