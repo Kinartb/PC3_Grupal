@@ -87,3 +87,6 @@ Desde \red_social_herramientas_bdd
 ```bash
 behave
 ```
+
+<img width="1015" height="369" alt="image" src="https://github.com/user-attachments/assets/89ffc821-a056-4848-931c-ee390f917aab" />
+
